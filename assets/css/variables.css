@@ -1,0 +1,33 @@
+:root {
+  /* Màu sắc */
+  --color-bg: #F6F1EA;
+  --color-bg-alt: #EDE5DA;
+  --color-white: #FFFFFF;
+  --color-text: #2B2622;
+  --color-text-muted: #7A6F66;
+  --color-silver: #A8A29B;
+  --color-border: #E2D9CC;
+  --color-primary: #2B2622;
+  --color-primary-hover: #4A423B;
+  --color-sale: #B5483A;
+
+  /* Phông chữ */
+  --font-heading: 'Cormorant Garamond', Georgia, serif;
+  --font-body: 'Montserrat', Arial, sans-serif;
+
+  /* Khoảng cách */
+  --space-xs: 8px;
+  --space-sm: 16px;
+  --space-md: 24px;
+  --space-lg: 48px;
+  --space-xl: 80px;
+
+  /* Bo góc, bóng, hiệu ứng */
+  --radius: 4px;
+  --shadow-sm: 0 2px 8px rgba(43, 38, 34, 0.06);
+  --shadow-md: 0 8px 24px rgba(43, 38, 34, 0.10);
+  --transition: 0.3s ease;
+
+  /* Độ rộng nội dung */
+  --container: 1200px;
+}
